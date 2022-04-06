@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jerrylusato.
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning software development(Web).
-- 💞️ I’m looking to collaborate on software development.
 - 📫 Here is my email address jeremiahlusato@gmail.com
 
 <!---
