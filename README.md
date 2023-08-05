@@ -1,4 +1,4 @@
-Hello👋! My name is Jerry Lusato
+Hello👋! My name is Jerry Lusato.
 
 I do Web Development and I like Javascript and Python a lot.
 
